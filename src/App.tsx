@@ -8,7 +8,7 @@ function App() {
   return (
     <ChakraProvider theme={theme}>
       <Button colorScheme="teal">ボタン</Button>
-      <p>あああああ</p>
+      <p>変更してみた</p>
     </ChakraProvider>
   );
 }
