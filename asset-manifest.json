@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.03c32abe.js",
-    "static/js/787.2d9f4a41.chunk.js": "/static/js/787.2d9f4a41.chunk.js",
-    "index.html": "/index.html",
-    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.03c32abe.js.map": "/static/js/main.03c32abe.js.map",
-    "787.2d9f4a41.chunk.js.map": "/static/js/787.2d9f4a41.chunk.js.map"
+    "main.css": "/react-chakra/static/css/main.e6c13ad2.css",
+    "main.js": "/react-chakra/static/js/main.b701d9dc.js",
+    "static/js/787.2d9f4a41.chunk.js": "/react-chakra/static/js/787.2d9f4a41.chunk.js",
+    "index.html": "/react-chakra/index.html",
+    "main.e6c13ad2.css.map": "/react-chakra/static/css/main.e6c13ad2.css.map",
+    "main.b701d9dc.js.map": "/react-chakra/static/js/main.b701d9dc.js.map",
+    "787.2d9f4a41.chunk.js.map": "/react-chakra/static/js/787.2d9f4a41.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.03c32abe.js"
+    "static/js/main.b701d9dc.js"
   ]
 }
